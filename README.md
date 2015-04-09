@@ -132,3 +132,7 @@ Future work and Limitations
 TAGS
 =========
 Hive Hadoop HiveRunner HDFS Unit test JUnit SQL HiveSQL HiveQL
+
+Why fork
+=========
+Try to upgrade to newer hive version
